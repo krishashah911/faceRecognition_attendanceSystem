@@ -1,0 +1,14 @@
+capture face 
+
+rec user and logging 
+
+
+face rec attendance 
+
+
+
+1) check cam
+2) capture face
+3) train
+4) mark attendace
+5) email
